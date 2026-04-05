@@ -30,7 +30,7 @@ editor_agent/
     └── editor-skills/
         ├── SKILL.md      # Skill instructions and editing steps
         └── references/
-            └── examples.md   # Before/after examples for hooks, clarity, explanations, insights, formatting, and anti-patterns
+            └── example.md   # Before/after examples for hooks, clarity, explanations, insights, formatting, and anti-patterns
 ```
 
 The agent uses `gemini-2.5-flash` and follows a structured 8-step editing process defined in `SKILL.md`.
